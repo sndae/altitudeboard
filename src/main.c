@@ -10,6 +10,8 @@ int main(){
 	//Ports initializing
 	DDRC = 0b11111100;
 	DDRD = 0b00000010;
+	
+	
 
 	uart0_init();
 	i2c_init();
