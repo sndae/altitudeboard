@@ -1,0 +1,1 @@
+Altitude board with 3 axis gyro and accelerometer, pressuresensor,3 axis magnetic sensor and bluetooth.
